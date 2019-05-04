@@ -1,0 +1,94 @@
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 8.xnb
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.xml
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\obj\Debug\MLNR.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\obj\Debug\MLNR.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\obj\Debug\MLNR.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\Data\data.txt
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 8.xnb
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\Data\data.txt
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\MLNR.pdb
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.xml
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\obj\Debug\MLNR.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\obj\Debug\MLNR.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\obj\Debug\MLNR.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\obj\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLXOR\obj\Debug\MLNR.pdb
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\bin\DesktopGL\AnyCPU\Debug\MLNR.pdb
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\obj\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Machine Learning XOR\MLNR\obj\Debug\MLNR.pdb
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\Data\data.txt
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 8.xnb
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\MLNR.pdb
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.dll
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.xml
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\obj\Debug\MLNR.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\obj\Debug\MLNR.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\obj\Debug\MLNR.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\obj\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\obj\Debug\MLNR.pdb
+C:\Users\Marvin\Desktop\Number Recognition\MLNR\bin\DesktopGL\AnyCPU\Debug\Data\Neural_Network
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\Data\data.txt
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\Data\Neural_Network
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\Content\Assets\Sprites\ASCII 8.xnb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\MLNR.pdb
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\bin\DesktopGL\AnyCPU\Debug\MathNet.Numerics.xml
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\obj\Debug\MLNR.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\obj\Debug\MLNR.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\obj\Debug\MLNR.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\obj\Debug\MLNR.exe
+C:\Users\Marvin\Desktop\Master\Programming\MonoGame\Workspace\Games\Number Recognition using Machine Learning\MLNR\obj\Debug\MLNR.pdb
